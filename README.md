@@ -1,10 +1,5 @@
 ### hey there!
-
-contact:
-<p align="left">
-  <img width="18" height="18" src="https://image.flaticon.com/icons/png/512/2111/2111370.png"/>
-  negan#6030
-</p>
+discord: negan#6030
 
 <!--
 **neg4n/neg4n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
