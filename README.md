@@ -1,5 +1,5 @@
 ### hey there!
-discord: negan#6030
+discord: Negan#6030
 
 <!--
 **neg4n/neg4n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
