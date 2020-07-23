@@ -4,7 +4,7 @@ In love with: *`Rust`* **/** *`C`* **/** *`C++`*
 In friendship with: *`JavaScript`* **/** *`TypeScript`*  
 ### Contact:
 
-<img align="left" src="./discord.png" width="94" height="32"/>
+<img align="left" src="https://github.com/neg4n/neg4n/blob/master/discord.png" width="94" height="32"/>
 
 Negan#6030
 
