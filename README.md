@@ -1,5 +1,14 @@
-### hey there!
-discord: Negan#6030
+Hobbyist backend developer, creating open source software in free time.  
+  
+In love with: *`Rust`* **/** *`C`* **/** *`C++`*  
+In friendship with: *`JavaScript`* **/** *`TypeScript`*  
+### Contact:
+
+<img align="left" src="https://discord.com/assets/fc0b01fe10a0b8c602fb0106d8189d9b.png" width="100" height="32"/>
+
+Negan#6030
+
+:mailbox_with_mail: Mail: *negan@ctemplar.com*  
 
 <!--
 **neg4n/neg4n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
