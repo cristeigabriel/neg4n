@@ -5,8 +5,6 @@ Hobbyist fullstack developer, creating open source software in free time.
 In love with: *`Rust`* **/** *`C`* **/** *`C++`*  
 In friendship with: *`JavaScript`* **/** *`TypeScript`*  
 
-<sub> Fun fact: my commit history may be empty because I've recently changed my signing mail ;_;</sub>
-
 #### Contact & useful links:
 
 <img align="left" src="https://github.com/neg4n/neg4n/blob/master/discord.png" width="94" height="32"/>
@@ -14,7 +12,7 @@ In friendship with: *`JavaScript`* **/** *`TypeScript`*
 Negan#6030
 
 :mailbox_with_mail: Mail: *negan@ctemplar.com*  
-:notebook: Blog: https://neg4n.github.io (:construction:)
+~~:notebook: Blog: https://neg4n.github.io ~~ (:construction:)
 
 <!--
 **neg4n/neg4n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
