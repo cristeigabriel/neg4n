@@ -12,7 +12,7 @@ In friendship with: *`JavaScript`* **/** *`TypeScript`*
 Negan#6030
 
 :mailbox_with_mail: Mail: *negan@ctemplar.com*  
-~~:notebook: Blog: https://neg4n.github.io ~~ (:construction:)
+:notebook: Blog: ~~https://neg4n.github.io~~ (:construction:)
 
 <!--
 **neg4n/neg4n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
