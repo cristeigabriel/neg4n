@@ -1,4 +1,6 @@
 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neg4n&layout=compact"/>
+
 Hobbyist fullstack developer, creating open source software in free time.  
   
 
@@ -7,14 +9,13 @@ In friendship with: *`JavaScript`* **/** *`TypeScript`*
 
 #### Contact & useful links:
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neg4n&layout=compact"/>
 
 <img align="left" src="https://github.com/neg4n/neg4n/blob/master/discord.png" width="94" height="32"/>
 
 Negan#6030
 
 :mailbox_with_mail: **Mail**: *negan@ctemplar.com*  
-:blossom: **Repl**: https://repl.it/@neg4n
+:blossom: **Repl**: https://repl.it/@neg4n  
 :notebook: **Blog**: ~~https://neg4n.github.io~~ :construction:
 
 
