@@ -1,7 +1,8 @@
 
-
 Hobbyist fullstack developer, creating open source software in free time.  
   
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neg4n&layout=compact&theme=dark"/>
+
 In love with: *`Rust`* **/** *`C`* **/** *`C++`*  
 In friendship with: *`JavaScript`* **/** *`TypeScript`*  
 
@@ -11,8 +12,9 @@ In friendship with: *`JavaScript`* **/** *`TypeScript`*
 
 Negan#6030
 
-:mailbox_with_mail: Mail: *negan@ctemplar.com*  
-:notebook: Blog: ~~https://neg4n.github.io~~ (:construction:)
+:mailbox_with_mail: **Mail**: *negan@ctemplar.com*  
+:notebook: **Blog**: ~~https://neg4n.github.io~~ (:construction:)
+
 
 <!--
 **neg4n/neg4n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
